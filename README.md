@@ -1,2 +1,14 @@
-# Vword
-An unofficial iOS App for V2EX
+#V字
+##简介
+**V字**是[V2EX](https://www.v2ex.com)的一个非官方iOS客户端，关于[V2EX](https://www.v2ex.com), 请查看https://www.v2ex.com. 
+
+##基本功能
+1. 浏览各主题列表、主题、评论、节点、用户、账户;
+2. 收藏主题，节点；感谢发帖者，评论者;
+3. 回复主题，发表主题；
+4. 关注，Block用户;
+4. 搜索主题，节点, 主题搜索来自于Bing；
+5. 未读消息提醒；
+
+
+
