@@ -1,5 +1,6 @@
 # V字
-![LOGO](LOGO-60@2x.png)
+![LOGO](LOGO-60@2x.png)    
+
 取V字之名，包括LOGO设计之意，源于多年前看过的一部电影[《V字仇杀队》](https://zh.wikipedia.org/wiki/V%E6%80%AA%E5%AE%A2)，向它致敬！
 
 ## 简介
