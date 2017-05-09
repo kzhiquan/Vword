@@ -1,5 +1,5 @@
 # V字
-![LOGO](LOGO-60@2x.png)    
+![LOGO](https://github.com/kzhiquan/Vword/blob/master/LOGO-60@2x.png)    
 
 取**V字**之名，包括LOGO设计之意，都源于多年前看过的一部电影[《V字仇杀队》](https://zh.wikipedia.org/wiki/V%E6%80%AA%E5%AE%A2)，向它致敬！
 
@@ -24,9 +24,7 @@
 6. 多种主题、回复列表单元样式；
 
 ## 无图无真相
-![1](1.png) 
-![2](2.png)
- ![3](3.png)            ![4](4.png) ![5](5.png) ![6](6.png) ![7](7.png)   ![8](8.png)   ![9](9.png) ![10](10.png)
+![1](https://github.com/kzhiquan/Vword/blob/master/1.png) ![2](https://github.com/kzhiquan/Vword/blob/master/2.png) ![3](https://github.com/kzhiquan/Vword/blob/master/3.png) ![4](https://github.com/kzhiquan/Vword/blob/master/4.png) ![5](https://github.com/kzhiquan/Vword/blob/master/5.png) ![6](https://github.com/kzhiquan/Vword/blob/master/6.png) ![7](https://github.com/kzhiquan/Vword/blob/master/7.png) ![8](https://github.com/kzhiquan/Vword/blob/master/8.png) ![9](https://github.com/kzhiquan/Vword/blob/master/9.png) ![10](https://github.com/kzhiquan/Vword/blob/master/10.png)
 
 ## 开发小叙
 V字基于Swift3.0开发，从2017年1月18日第一个提交，到5月中旬基本功能完成，App Store第一个版本发布，时间跨度4个月左右，从提交历史上看，基本上每天都笔耕不辍。接触Swift3.0有段时间，但是用它开发一个完整的APP，还是第一次。给我的感觉是，在表达形式上比Objective-C简练，在抽象上没有Javascript那般灵活多样，但蛮喜爱，似乎找到了第一次写C++代码的感觉，我想我会继续漫游在它的填坑路上，虽然XCode的编译速度慢的令人发指。    
