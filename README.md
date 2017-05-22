@@ -3,6 +3,9 @@
 
 取**V字**之名，包括LOGO设计之意，都源于多年前看过的一部电影[《V字仇杀队》](https://zh.wikipedia.org/wiki/V%E6%80%AA%E5%AE%A2)，向它致敬！
 
+## 下载
+[![https://itunes.apple.com/cn/app/v%E5%AD%97/id1234223461?l=en&mt=8](http://ww2.sinaimg.cn/large/0060lm7Tgw1f1hgrs1ebwj308102q0sp.jpg)](https://itunes.apple.com/cn/app/v%E5%AD%97/id1234223461?l=en&mt=8)
+
 ## 简介
 **V字**是[V2EX](https://www.v2ex.com)的一个非官方iOS客户端，关于[V2EX](https://www.v2ex.com)，请查看<https://www.v2ex.com>. 
 
